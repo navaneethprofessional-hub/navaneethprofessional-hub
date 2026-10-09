@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navaneeth</h1>
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Power BI</h3>
+
 
 ---
 
